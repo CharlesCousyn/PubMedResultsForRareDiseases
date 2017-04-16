@@ -5,3 +5,5 @@ This little project want to extracts the number of results on PubMed search engi
 All rare disease are taken from Global Genes website (https://globalgenes.org/rarelist/).
 
 Results are exported in a file named "results.csv" at the root of the project.
+
+Last time executed successfully: 16/04/2017 10:02 AM
